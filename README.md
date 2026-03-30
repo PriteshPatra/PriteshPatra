@@ -1,3 +1,4 @@
+
 <!--
 ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓
 ▓                                              ▓
@@ -161,7 +162,7 @@
 ## ⚡ Stack Scan — `[AUTHORIZED]`
 
 ```python
-$ python3 scan_engineer.py --target=YOUR_USERNAME --deep
+$ python3 scan_engineer.py --target=PriteshPatra --deep
 
 [██████████████████████████████] 100%  scanning...
 
@@ -193,11 +194,11 @@ VERDICT: Dangerous. Deploy to production immediately.
 
 ## 📊 Training Metrics — `live`
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d1a&title_color=FF00FF&text_color=00FFFF&icon_color=FF00FF"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api?username=PriteshPatra&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d0d1a&title_color=FF00FF&text_color=00FFFF&icon_color=FF00FF"/>
 
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&langs_count=6&theme=radical&hide_border=true&bg_color=0d0d1a&title_color=FF00FF&text_color=00FFFF"/>
+<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PriteshPatra&layout=compact&langs_count=6&theme=radical&hide_border=true&bg_color=0d0d1a&title_color=FF00FF&text_color=00FFFF"/>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=radical&hide_border=true&background=0D0D1A&ring=FF00FF&fire=FF00FF&currStreakLabel=00FFFF&sideLabels=00FFFF&dates=FF00FF)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=PriteshPatra&theme=radical&hide_border=true&background=0D0D1A&ring=FF00FF&fire=FF00FF&currStreakLabel=00FFFF&sideLabels=00FFFF&dates=FF00FF)](https://git.io/streak-stats)
 
 </div>
 
@@ -205,7 +206,7 @@ VERDICT: Dangerous. Deploy to production immediately.
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=PriteshPatra&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -217,13 +218,13 @@ VERDICT: Dangerous. Deploy to production immediately.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-0d0d1a?style=for-the-badge&logo=vercel&logoColor=FF00FF)](https://yoursite.dev)
 [![Twitter/X](https://img.shields.io/badge/Twitter-0d0d1a?style=for-the-badge&logo=x&logoColor=FF00FF)](https://twitter.com/YOUR_USERNAME)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d1a?style=for-the-badge&logo=linkedin&logoColor=00FFFF)](https://linkedin.com/in/YOUR_USERNAME)
-[![Kaggle](https://img.shields.io/badge/Kaggle-0d0d1a?style=for-the-badge&logo=kaggle&logoColor=00FFFF)](https://kaggle.com/YOUR_USERNAME)
-[![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-0d0d1a?style=for-the-badge&logoColor=FF00FF)](https://huggingface.co/YOUR_USERNAME)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d0d1a?style=for-the-badge&logo=linkedin&logoColor=00FFFF)](https://www.linkedin.com/in/pritesh-patra-239156322)
+[![Kaggle](https://img.shields.io/badge/Kaggle-0d0d1a?style=for-the-badge&logo=kaggle&logoColor=00FFFF)](https://kaggle.com/PriteshPatra)
+[![HuggingFace](https://img.shields.io/badge/🤗_HuggingFace-0d0d1a?style=for-the-badge&logoColor=FF00FF)](https://huggingface.co/PriteshPatra)
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=FF00FF&style=flat-square&label=MINDS+TRICKED)
+![Profile Views](https://komarev.com/ghpvc/?username=PriteshPatra&color=FF00FF&style=flat-square&label=MINDS+TRICKED)
 
 ```
 epoch [∞/∞]  ·  loss: still optimizing  ·  acc: getting there  ·  eta: ¯\_(ツ)_/¯
