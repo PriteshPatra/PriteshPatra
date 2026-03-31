@@ -1,6 +1,6 @@
-# Hi there! 👾 I'm PriteshPatra
+# 👾 Hi, I'm Pritesh Patra
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=003fef&width=435&lines=Aspiring+Full+Stack+Developer;Passionate+Learner;Open+Source+Enthusiast;Building+Cool+Things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=003fef&width=435&lines=>+status:+evolving;Building+AutoApply+AI;Backend+%26+Automation;Still+figuring+things+out)](https://git.io/typing-svg)
 
 ---
 
