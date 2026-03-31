@@ -6,17 +6,19 @@
 
 ## 👋 About Me
 
-I'm PriteshPatra, a developer who believes in the power of code to bring ideas to life. My philosophy is simple: **Do what you love!** and that passion drives me to constantly explore new technologies, build innovative solutions, and contribute to the developer community. I'm always eager to dive into challenging problems and turn complex concepts into elegant, maintainable software.
+I'm Pritesh Patra, a developer focused on turning ideas into real, working systems. I believe in a simple philosophy: **Do what you love** — and for me, that means building, experimenting, and constantly improving. Currently, I'm diving deep into Python, exploring Django, and sharpening my problem-solving skills through DSA. I enjoy breaking down complex problems and building clean, practical solutions that actually work in real-world scenarios.
+
+Still learning, still building — but always moving forward.
 
 ---
 
 ## 🎯 Current Focus
 
-- 🔭 Working on: **[Current Project Name]** <!-- TODO: Add your current main project, e.g., "a scalable e-commerce platform" -->
-- 🌱 Learning: **[Technology/Skill Name]** <!-- TODO: Add what you're currently learning, e.g., "Kubernetes and advanced CI/CD pipelines" -->
-- 👯 Looking to collaborate on: **Open Source Projects focusing on web development or data science.**
-- 💬 Ask me about: **[Your Expertise Areas]** <!-- TODO: Add your areas of expertise, e.g., "React, Node.js, or cloud architecture" -->
-- ⚡ Fun fact: **[Interesting fact about you]** <!-- TODO: Add a fun fact, e.g., "I can solve a Rubik's Cube in under a minute!" -->
+- 🔭 Working on: **AutoApply AI** <!-- TODO: Add your current main project, e.g., "a scalable e-commerce platform" -->
+- 🌱 Learning: **Data Structure & Algorithms** <!-- TODO: Add what you're currently learning, e.g., "Kubernetes and advanced CI/CD pipelines" -->
+- 👯 Looking to collaborate on: **Beginner-friendly open source & real-world backend projects**
+- 💬 Ask me about: **Python basics, Django fundamentals, and building beginner projects** <!-- TODO: Add your areas of expertise, e.g., "React, Node.js, or cloud architecture" -->
+- ⚡ Fun fact: **I focus more on consistency than motivation — even small progress counts** <!-- TODO: Add a fun fact, e.g., "I can solve a Rubik's Cube in under a minute!" -->
 
 ---
 
@@ -37,7 +39,7 @@ My toolkit is ever-evolving, but here are some of the technologies I frequently 
 
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 
 <!-- TODO: Add your actual frameworks and libraries, e.g., Vue.js, Angular, Spring Boot, Django, FastAPI -->
 
@@ -134,38 +136,33 @@ Here are a few projects that highlight my skills and passion:
 
 ## 🎓 Certifications & Achievements
 <!-- TODO: Add your certifications, relevant courses, and notable achievements -->
-- 🏆 **[Certification Name]** - e.g., "AWS Certified Developer – Associate"
-- 📜 **[Course/Specialization Name]** - e.g., "Coursera Machine Learning Specialization"
-- 🥇 **[Achievement/Award]** - e.g., "HackerRank 5-star in Python"
+- 🏆 **Scientific Computing with Python** - freeCodeCamp
 
 ---
 
-## 📝 Latest Blog Posts
-<!-- TODO: Add links to your recent blog posts or articles. This helps showcase your thought leadership. -->
-- 📖 [Title of Your Latest Post](https://yourblog.com/link-to-post-1)
-- 🔧 [Another Interesting Article](https://yourblog.com/link-to-post-2)
+## 📝 Writing
+<sub>- No posts yet — but ideas are loading...</sub>
 
 ---
 
-## 🎯 2024 Goals
+## 🎯 2026 Goals
 <!-- TODO: Update with your current year's professional and personal goals -->
 - 🚀 Contribute to 5+ new open source projects.
-- 📚 Deepen expertise in a new cloud platform (e.g., Google Cloud).
-- 🌟 Reach 100+ GitHub followers.
-- 📝 Write 6+ technical blog posts sharing my learnings.
+- 🚀 Complete and deploy **AutoApply AI** 
+- 🧩 Solve 150+ DSA problems 
+- 🔓 Make my first open source contribution
+- 📄 Land my first tech internship  
 
 ---
 
 ## 🏆 Open Source Contributions
-<!-- TODO: Highlight your major contributions to open-source projects. If you're new to open source, this is a great section to start building! -->
-- 🔧 **[Project Name]**: Contributed feature X and fixed bug Y. (Link to PR if possible)
-- 🌟 **[Library Name]**: Improved documentation and added examples. (Link to PR)
-
+<sub>- Starting my open source journey — first contributions coming soon.</sub>
+ 
 ---
 
 ## 🌐 Let's Connect & Collaborate
 
-I'm always open to discussing new ideas, collaborating on interesting projects, or just chatting about tech!
+💬 Open to internships, collaborations, and meaningful tech conversations
 
 <div align="center">
 
@@ -189,22 +186,18 @@ I'm always open to discussing new ideas, collaborating on interesting projects, 
 
 ---
 
-## ☕ Support My Work
-
-If you found my projects helpful or learned something from my code, consider supporting my work:
+## 🧪 Exploring
 
 <div align="center">
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/YOUR_USERNAME) <!-- TODO: Replace YOUR_USERNAME with your Buy Me A Coffee username -->
-
-[![Ko-Fi](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/YOUR_USERNAME) <!-- TODO: Replace YOUR_USERNAME with your Ko-fi username -->
-
-[![Sponsor](https://img.shields.io/badge/GitHub%20Sponsors-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/PriteshPatra) <!-- TODO: Replace PriteshPatra with your GitHub username -->
+- 🤖 Building **AutoApply AI** — automating job applications intelligently  
+- ⚙️ Backend development with Python & Django  
+- 🧠 Strengthening problem-solving with DSA  
 
 </div>
 
 <div align="center">
-  <sub>💡 <i>Every contribution, no matter how small, helps me maintain and improve my open source projects!</i></sub>
+  <sub>💡 <i>Turning ideas into systems, one step at a time.</i></sub>
 </div>
 
 ---
@@ -212,8 +205,8 @@ If you found my projects helpful or learned something from my code, consider sup
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=PriteshPatra&color=blueviolet&style=for-the-badge&label=Profile+Views"/>
 
-  ### 🚀 "Code is poetry, and every commit tells a story"
+  ### 🚀 > status: evolving
 
-  <sub>⭐ Feel free to star any repositories you find interesting!</sub>
+  <sub>⭐ version: better_than_yesterday</sub>
 </div>
 
