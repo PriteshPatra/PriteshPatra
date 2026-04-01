@@ -124,7 +124,7 @@ Here are a few projects that highlight my skills and learning journey:
 
 ### ⚙️ [DevFlow Tracker: Personal Productivity System](https://github.com/PriteshPatra/devflow-tracker)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=PriteshPatra&repo=devflow-tracker&theme=tokyonight)](https://github.com/PriteshPatra/devflow-tracker)
+[![Repo Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=PriteshPatra&repo=differentApproachForNeurolens&theme=tokyonight)](https://github.com/PriteshPatra/differentApproachForNeurolens)
 
 **Tech Stack:** Python • CLI • JSON / SQLite  
 **Status:** 🚧 MVP in Development  
