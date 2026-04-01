@@ -78,14 +78,6 @@ Showcasing my journey and contributions on GitHub.
 ### 📈 Contribution Activity
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=PriteshPatra&theme=tokyo-night&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true"/>
 
-### 🔥 Streak Statistics
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PriteshPatra&theme=tokyonight&hide_border=true"/>
-</p>
-
-### 📅 Contribution Calendar
-<img src="https://ghchart.rshah.org/409ba5/PriteshPatra" alt="Contribution Calendar" width="100%"/>
-
 ## 🏗️ Featured Projects
 
 Here are a few projects that highlight my skills and learning journey:
