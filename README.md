@@ -98,37 +98,37 @@ Showcasing my journey and contributions on GitHub.
 
 ## 🏗️ Featured Projects
 
-Here are a few projects that highlight my skills and passion:
+Here are a few projects that highlight my skills and learning journey:
 
 <div align="center">
 
-### 🌟 [Project Name 1: E-commerce Platform](https://github.com/PriteshPatra/REPO_NAME_1) <!-- TODO: Replace with actual project name and repository link -->
+### 🧠 [NeuroLens: Emotion & Stress Analyzer](https://github.com/PriteshPatra/neurolens)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=PriteshPatra&repo=REPO_NAME_1&theme=tokyonight)](https://github.com/PriteshPatra/REPO_NAME_1) <!-- TODO: Replace REPO_NAME_1 -->
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=PriteshPatra&repo=neurolens&theme=tokyonight)](https://github.com/PriteshPatra/neurolens)
 
-**Tech Stack:** React • Node.js • Express • MongoDB • AWS S3
-**Status:** 🚀 In Development | ⭐ 15+ Stars | 🍴 5+ Forks
-*This project is a full-stack e-commerce solution with features like user authentication, product catalog, shopping cart, and payment integration. Focused on scalability and a seamless user experience.*
-
----
-
-### 🔥 [Project Name 2: Real-time Chat Application](https://github.com/PriteshPatra/REPO_NAME_2) <!-- TODO: Replace with actual project name and repository link -->
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=PriteshPatra&repo=REPO_NAME_2&theme=tokyonight)](https://github.com/PriteshPatra/REPO_NAME_2) <!-- TODO: Replace REPO_NAME_2 -->
-
-**Tech Stack:** Vue.js • Socket.IO • Node.js • PostgreSQL • Redis
-**Status:** 🚧 Prototype | ⭐ 8+ Stars | 🍴 3+ Forks
-*A real-time chat application demonstrating WebSocket communication for instant messaging, group chats, and notification systems.*
+**Tech Stack:** Python • OpenCV • Machine Learning • Audio Processing  
+**Status:** 🚧 In Progress  
+*An intelligent system that analyzes facial microexpressions and voice patterns to detect user mood and estimate stress levels. Based on the detected state, it adapts system behavior like screen brightness and alerts to improve user well-being.*
 
 ---
 
-### ⚡ [Project Name 3: Data Analysis Dashboard](https://github.com/PriteshPatra/REPO_NAME_3) <!-- TODO: Replace with actual project name and repository link -->
+### 🤖 [AutoApply AI: Job Application Automation](https://github.com/PriteshPatra/autoapply-ai)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=PriteshPatra&repo=REPO_NAME_3&theme=tokyonight)](https://github.com/PriteshPatra/REPO_NAME_3) <!-- TODO: Replace REPO_NAME_3 -->
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=PriteshPatra&repo=autoapply-ai&theme=tokyonight)](https://github.com/PriteshPatra/autoapply-ai)
 
-**Tech Stack:** Python • Pandas • Plotly • Flask • Docker
-**Status:** ✅ Complete | ⭐ 20+ Stars | 🍴 7+ Forks
-*An interactive data analysis dashboard built with Python and Flask, providing visualizations and insights from a sample dataset. Containerized with Docker for easy deployment.*
+**Tech Stack:** Python • Selenium • APIs • Automation  
+**Status:** 🚀 Planned / Starting Soon  
+*A smart automation tool designed to streamline job applications by auto-filling forms, tracking applications, and reducing repetitive effort. Focused on saving time and increasing efficiency in the job search process.*
+
+---
+
+### ⚙️ [DevFlow Tracker: Personal Productivity System](https://github.com/PriteshPatra/devflow-tracker)
+
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=PriteshPatra&repo=devflow-tracker&theme=tokyonight)](https://github.com/PriteshPatra/devflow-tracker)
+
+**Tech Stack:** Python • CLI • JSON / SQLite  
+**Status:** 🚧 MVP in Development  
+*A lightweight productivity tool to track daily tasks, maintain consistency, and build execution discipline. Designed as a personal system to monitor progress, streaks, and learning habits.*
 
 </div>
 
