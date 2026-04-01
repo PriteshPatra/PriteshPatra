@@ -104,7 +104,7 @@ Here are a few projects that highlight my skills and learning journey:
 
 ### 🧠 [NeuroLens: Emotion & Stress Analyzer](https://github.com/PriteshPatra/neurolens)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=PriteshPatra&repo=neurolens&theme=tokyonight)](https://github.com/PriteshPatra/neurolens)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=PriteshPatra&repo=differentApproachForNeurolens&theme=tokyonight)](https://github.com/PriteshPatra/differentApproachForNeurolens)
 
 **Tech Stack:** Python • OpenCV • Machine Learning • Audio Processing  
 **Status:** 🚧 In Progress  
