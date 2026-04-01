@@ -120,7 +120,13 @@ Here are a few projects that highlight my skills and learning journey:
 
 ### 🤖 [AutoApply AI: Job Application Automation](https://github.com/PriteshPatra/autoapply-ai)
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=PriteshPatra&repo=autoapply-ai&theme=tokyonight)](https://github.com/PriteshPatra/autoapply-ai)
+<div align="center">
+
+<img src="https://img.shields.io/badge/Project-AutoApply%20AI-blue?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/Status-Planning%20%2F%20Starting%20Soon-orange?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Tech-Python%20%7C%20Selenium%20%7C%20APIs-green?style=for-the-badge" />
+
+</div>
 
 **Tech Stack:** Python • Selenium • APIs • Automation  
 **Status:** 🚀 Planned / Starting Soon  
@@ -130,7 +136,13 @@ Here are a few projects that highlight my skills and learning journey:
 
 ### ⚙️ [DevFlow Tracker: Personal Productivity System](https://github.com/PriteshPatra/devflow-tracker)
 
-[![Repo Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=PriteshPatra&repo=differentApproachForNeurolens&theme=tokyonight)](https://github.com/PriteshPatra/differentApproachForNeurolens)
+<div align="center">
+
+<img src="https://img.shields.io/badge/Project-DevFlow%20Tracker-blue?style=for-the-badge&logo=github" />
+<img src="https://img.shields.io/badge/Status-MVP%20In%20Development-yellow?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Tech-Python%20%7C%20CLI%20%7C%20JSON-green?style=for-the-badge" />
+
+</div>
 
 **Tech Stack:** Python • CLI • JSON / SQLite  
 **Status:** 🚧 MVP in Development  
