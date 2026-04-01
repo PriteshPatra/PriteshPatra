@@ -166,8 +166,6 @@ Here are a few projects that highlight my skills and learning journey:
 
 [![GitHub followers](https://img.shields.io/github/followers/PriteshPatra?style=social)](https://github.com/PriteshPatra)
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/YOUR_TWITTER_HANDLE?style=social)](https://twitter.com/YOUR_TWITTER_HANDLE) <!-- TODO: Add your Twitter handle for the follow badge -->
-
 </div>
 
 ---
