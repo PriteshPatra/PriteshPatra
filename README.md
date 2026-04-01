@@ -86,16 +86,6 @@ Showcasing my journey and contributions on GitHub.
 ### 📅 Contribution Calendar
 <img src="https://ghchart.rshah.org/409ba5/PriteshPatra" alt="Contribution Calendar" width="100%"/>
 
-### ⚡ Recent Activity
-<!--START_SECTION:activity-->
-<!-- TODO: Set up GitHub Actions to auto-update this section. You can use a workflow like 'Anmol-Baranwal/awesome-readme-stats@v1' or 'JamesIves/github-activity-readme@v1' -->
-- ✨ Updated `PriteshPatra/PriteshPatra` to include project details and new badges.
-- 🚀 Created `PriteshPatra/my-awesome-project` for a new web application.
-- 📝 Documented `PriteshPatra/another-project` with setup instructions and API endpoints.
-<!--END_SECTION:activity-->
-
----
-
 ## 🏗️ Featured Projects
 
 Here are a few projects that highlight my skills and learning journey:
