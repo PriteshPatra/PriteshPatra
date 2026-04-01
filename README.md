@@ -152,19 +152,11 @@ Here are a few projects that highlight my skills and learning journey:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR_LINKEDIN_PROFILE) <!-- TODO: Add your LinkedIn profile URL -->
-
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER_HANDLE) <!-- TODO: Add your Twitter handle URL -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/pritesh-patra-239156322) <!-- TODO: Add your LinkedIn profile URL -->
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourportfolio.com) <!-- TODO: Add your personal portfolio website URL -->
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com) <!-- TODO: Add your professional email address -->
-
-[![Blog](https://img.shields.io/badge/Blog-FFA500?style=for-the-badge&logo=rss&logoColor=white)](https://yourblog.com) <!-- TODO: Add your blog URL if you have one -->
-
-### 📱 Social Presence
-
-[![GitHub followers](https://img.shields.io/github/followers/PriteshPatra?style=social)](https://github.com/PriteshPatra)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:priteshpatra0406@gmail.com) <!-- TODO: Add your professional email address -->
 
 </div>
 
